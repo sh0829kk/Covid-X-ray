@@ -1,0 +1,3 @@
+
+Train set: Average loss: 0.0159, Accuracy: 1862/2459 (76%)
+
